@@ -1,0 +1,35 @@
+body{
+  font-family: 'Source Code Pro', monospace;
+  background-color: #eee;
+  position: relative;
+  text-align: center;
+  color: #393e46;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 5%;
+  display: block;
+}
+
+footer {
+  height: -25px;
+  margin-top: 20%;
+}
+.title-div {
+  color: #393e46;
+  margin: 10% auto 50px;
+  font-size: 5rem;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.year-div {
+  width: 210px;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: #32e0c4;
+}
+
+#year {}
